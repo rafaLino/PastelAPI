@@ -1,0 +1,12 @@
+D:\workspace\Pastel\PastelAPI\PastelAPISolution\2 - Domain\PastelAPISolution.Domain\bin\Debug\netcoreapp2.0\PastelAPISolution.Domain.deps.json
+D:\workspace\Pastel\PastelAPI\PastelAPISolution\2 - Domain\PastelAPISolution.Domain\bin\Debug\netcoreapp2.0\PastelAPISolution.Domain.dll
+D:\workspace\Pastel\PastelAPI\PastelAPISolution\2 - Domain\PastelAPISolution.Domain\bin\Debug\netcoreapp2.0\PastelAPISolution.Domain.pdb
+D:\workspace\Pastel\PastelAPI\PastelAPISolution\2 - Domain\PastelAPISolution.Domain\bin\Debug\netcoreapp2.0\PastelAPISolution.Domain.Core.dll
+D:\workspace\Pastel\PastelAPI\PastelAPISolution\2 - Domain\PastelAPISolution.Domain\bin\Debug\netcoreapp2.0\PastelAPISolution.Domain.Core.pdb
+D:\workspace\Pastel\PastelAPI\PastelAPISolution\2 - Domain\PastelAPISolution.Domain\obj\Debug\netcoreapp2.0\PastelAPISolution.Domain.csprojAssemblyReference.cache
+D:\workspace\Pastel\PastelAPI\PastelAPISolution\2 - Domain\PastelAPISolution.Domain\obj\Debug\netcoreapp2.0\PastelAPISolution.Domain.csproj.CoreCompileInputs.cache
+D:\workspace\Pastel\PastelAPI\PastelAPISolution\2 - Domain\PastelAPISolution.Domain\obj\Debug\netcoreapp2.0\PastelAPISolution.Domain.AssemblyInfoInputs.cache
+D:\workspace\Pastel\PastelAPI\PastelAPISolution\2 - Domain\PastelAPISolution.Domain\obj\Debug\netcoreapp2.0\PastelAPISolution.Domain.AssemblyInfo.cs
+D:\workspace\Pastel\PastelAPI\PastelAPISolution\2 - Domain\PastelAPISolution.Domain\obj\Debug\netcoreapp2.0\PastelAPISolution.Domain.csproj.CopyComplete
+D:\workspace\Pastel\PastelAPI\PastelAPISolution\2 - Domain\PastelAPISolution.Domain\obj\Debug\netcoreapp2.0\PastelAPISolution.Domain.dll
+D:\workspace\Pastel\PastelAPI\PastelAPISolution\2 - Domain\PastelAPISolution.Domain\obj\Debug\netcoreapp2.0\PastelAPISolution.Domain.pdb

@@ -1,0 +1,16 @@
+D:\workspace\Pastel\PastelAPI\PastelAPISolution\1 - Application\PastelAPISolution.Application.Service\bin\Debug\netcoreapp2.0\PastelAPISolution.Application.Service.deps.json
+D:\workspace\Pastel\PastelAPI\PastelAPISolution\1 - Application\PastelAPISolution.Application.Service\bin\Debug\netcoreapp2.0\PastelAPISolution.Application.Service.dll
+D:\workspace\Pastel\PastelAPI\PastelAPISolution\1 - Application\PastelAPISolution.Application.Service\bin\Debug\netcoreapp2.0\PastelAPISolution.Application.Service.pdb
+D:\workspace\Pastel\PastelAPI\PastelAPISolution\1 - Application\PastelAPISolution.Application.Service\bin\Debug\netcoreapp2.0\Microsoft.AspNetCore.JsonPatch.dll
+D:\workspace\Pastel\PastelAPI\PastelAPISolution\1 - Application\PastelAPISolution.Application.Service\bin\Debug\netcoreapp2.0\PastelAPISolution.Domain.Core.dll
+D:\workspace\Pastel\PastelAPI\PastelAPISolution\1 - Application\PastelAPISolution.Application.Service\bin\Debug\netcoreapp2.0\PastelAPISolution.Domain.dll
+D:\workspace\Pastel\PastelAPI\PastelAPISolution\1 - Application\PastelAPISolution.Application.Service\bin\Debug\netcoreapp2.0\PastelAPISolution.Domain.pdb
+D:\workspace\Pastel\PastelAPI\PastelAPISolution\1 - Application\PastelAPISolution.Application.Service\bin\Debug\netcoreapp2.0\PastelAPISolution.Domain.Core.pdb
+D:\workspace\Pastel\PastelAPI\PastelAPISolution\1 - Application\PastelAPISolution.Application.Service\bin\Debug\netcoreapp2.0\Microsoft.AspNetCore.JsonPatch.xml
+D:\workspace\Pastel\PastelAPI\PastelAPISolution\1 - Application\PastelAPISolution.Application.Service\obj\Debug\netcoreapp2.0\PastelAPISolution.Application.Service.csprojAssemblyReference.cache
+D:\workspace\Pastel\PastelAPI\PastelAPISolution\1 - Application\PastelAPISolution.Application.Service\obj\Debug\netcoreapp2.0\PastelAPISolution.Application.Service.csproj.CoreCompileInputs.cache
+D:\workspace\Pastel\PastelAPI\PastelAPISolution\1 - Application\PastelAPISolution.Application.Service\obj\Debug\netcoreapp2.0\PastelAPISolution.Application.Service.AssemblyInfoInputs.cache
+D:\workspace\Pastel\PastelAPI\PastelAPISolution\1 - Application\PastelAPISolution.Application.Service\obj\Debug\netcoreapp2.0\PastelAPISolution.Application.Service.AssemblyInfo.cs
+D:\workspace\Pastel\PastelAPI\PastelAPISolution\1 - Application\PastelAPISolution.Application.Service\obj\Debug\netcoreapp2.0\PastelAPISolution.Application.Service.csproj.CopyComplete
+D:\workspace\Pastel\PastelAPI\PastelAPISolution\1 - Application\PastelAPISolution.Application.Service\obj\Debug\netcoreapp2.0\PastelAPISolution.Application.Service.dll
+D:\workspace\Pastel\PastelAPI\PastelAPISolution\1 - Application\PastelAPISolution.Application.Service\obj\Debug\netcoreapp2.0\PastelAPISolution.Application.Service.pdb

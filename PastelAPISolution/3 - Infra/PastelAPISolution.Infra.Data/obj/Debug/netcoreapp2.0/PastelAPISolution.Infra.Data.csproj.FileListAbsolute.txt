@@ -1,0 +1,14 @@
+D:\workspace\Pastel\PastelAPI\PastelAPISolution\3 - Infra\PastelAPISolution.Infra.Data\bin\Debug\netcoreapp2.0\PastelAPISolution.Infra.Data.deps.json
+D:\workspace\Pastel\PastelAPI\PastelAPISolution\3 - Infra\PastelAPISolution.Infra.Data\bin\Debug\netcoreapp2.0\PastelAPISolution.Infra.Data.dll
+D:\workspace\Pastel\PastelAPI\PastelAPISolution\3 - Infra\PastelAPISolution.Infra.Data\bin\Debug\netcoreapp2.0\PastelAPISolution.Infra.Data.pdb
+D:\workspace\Pastel\PastelAPI\PastelAPISolution\3 - Infra\PastelAPISolution.Infra.Data\bin\Debug\netcoreapp2.0\PastelAPISolution.Domain.Core.dll
+D:\workspace\Pastel\PastelAPI\PastelAPISolution\3 - Infra\PastelAPISolution.Infra.Data\bin\Debug\netcoreapp2.0\PastelAPISolution.Domain.dll
+D:\workspace\Pastel\PastelAPI\PastelAPISolution\3 - Infra\PastelAPISolution.Infra.Data\bin\Debug\netcoreapp2.0\PastelAPISolution.Domain.pdb
+D:\workspace\Pastel\PastelAPI\PastelAPISolution\3 - Infra\PastelAPISolution.Infra.Data\bin\Debug\netcoreapp2.0\PastelAPISolution.Domain.Core.pdb
+D:\workspace\Pastel\PastelAPI\PastelAPISolution\3 - Infra\PastelAPISolution.Infra.Data\obj\Debug\netcoreapp2.0\PastelAPISolution.Infra.Data.csprojAssemblyReference.cache
+D:\workspace\Pastel\PastelAPI\PastelAPISolution\3 - Infra\PastelAPISolution.Infra.Data\obj\Debug\netcoreapp2.0\PastelAPISolution.Infra.Data.csproj.CoreCompileInputs.cache
+D:\workspace\Pastel\PastelAPI\PastelAPISolution\3 - Infra\PastelAPISolution.Infra.Data\obj\Debug\netcoreapp2.0\PastelAPISolution.Infra.Data.AssemblyInfoInputs.cache
+D:\workspace\Pastel\PastelAPI\PastelAPISolution\3 - Infra\PastelAPISolution.Infra.Data\obj\Debug\netcoreapp2.0\PastelAPISolution.Infra.Data.AssemblyInfo.cs
+D:\workspace\Pastel\PastelAPI\PastelAPISolution\3 - Infra\PastelAPISolution.Infra.Data\obj\Debug\netcoreapp2.0\PastelAPISolution.Infra.Data.csproj.CopyComplete
+D:\workspace\Pastel\PastelAPI\PastelAPISolution\3 - Infra\PastelAPISolution.Infra.Data\obj\Debug\netcoreapp2.0\PastelAPISolution.Infra.Data.dll
+D:\workspace\Pastel\PastelAPI\PastelAPISolution\3 - Infra\PastelAPISolution.Infra.Data\obj\Debug\netcoreapp2.0\PastelAPISolution.Infra.Data.pdb
